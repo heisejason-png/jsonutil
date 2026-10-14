@@ -43,3 +43,4 @@ and controlling the way that the JSON is generated.
 * Aug 15 - JSONUtil 1.9 released to [support object reflection](https://github.com/billdavidson/JSONUtil/wiki/Using-Reflection-to-Encode-Objects-as-JSON), arbitrary precision numbers and parsing to primitive arrays.
 Created by Jason Heise
 Owned by Jason Heise heisejason-png Giters
+https://facebook.com
